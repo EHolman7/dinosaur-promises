@@ -3,15 +3,18 @@
     "type": "Brontosaurus",
     "bio": "Brontosaurus, meaning thunder lizard, is a genus of gigantic quadruped sauropod dinosaurs.",
     "img": "imgs/brontosaurus.png",
-    "info": "Herbivore"
+    "info": "Herbivore",
+    "catIds": [5, 14, 24]
   }, {
     "type": "Pterodactyl",
     "bio": "Pterodactylus (meaning winged finger) is an extinct flying reptile genus of pterosaurs, whose members are popularly known as pterodactyls.",
     "img": "imgs/pterodactyl.jpg",
-    "info": "Carnivore"
+    "info": "Carnivore",
+    "catIds": [9, 12, 16]
   }, {
     "type": "Stegosaurus",
     "bio": "Stegosaurus is a genus of armored dinosaur. ",
-    "info": "Herbivore"
+    "info": "Herbivore",
+    "catIds": [3, 15, 23]
   }]
 }
